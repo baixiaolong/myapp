@@ -1,2 +1,2 @@
 # myapp
-this a test repo
+this a test repo.
